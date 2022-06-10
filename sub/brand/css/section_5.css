@@ -1,0 +1,55 @@
+.section_5{
+    width: 1342px;
+    height: 672px;
+    /* background-color: blueviolet; */
+    box-sizing: border-box;
+    display: flex;
+    justify-content: space-between;
+    margin: 200px auto;
+}
+.brand_history{
+    width: 671px;
+    display: flex;
+    /* background-color: green; */
+    background-image: url(../img/barand_bg_last.png);
+}
+.history_box{
+    width: 512px;
+    height: 334px;
+    background-color: rgba(255, 255, 255, 0.81);
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+.history_box h4{
+    font-size: 40px;
+    font-weight: 600;
+    color: #1D1D1D;
+}
+.history_box p{
+    font-size: 18px;
+    font-weight: 200;
+    color: rgba(29, 29, 29, 0.6);
+    line-height: 30px;
+    display: block;
+    margin-top: 20px;
+}
+.history_text{
+    margin: 110px auto;
+    background-color: white;
+}
+.history_text p{
+    line-height: 52px;
+    color: #1D1D1D;
+    font-size: 16px;
+    font-weight: 500; 
+}
+.history_text ul{
+    font-size: 16px;
+    font-weight: 500; 
+    color: #1D1D1D;
+    margin-left: 40px;
+}

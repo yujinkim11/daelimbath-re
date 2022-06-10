@@ -1,0 +1,40 @@
+
+.bg_1{
+    width: 100%;
+    height: 1045px;
+    /* background-color: lightgray; */
+    background-image: url(../img/main_sec_1_banner.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.bg_1_1{
+    background-color: rgba(0, 0, 0, 0.53);
+    margin: 0 auto;
+    height: 100%;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    padding-top: 322px;
+    padding-left: 289px;
+    box-sizing: border-box;
+    
+}
+
+.bg_1_1 p{
+    font-size: 20px;
+    color: rgba(255, 255, 255, 0.8);
+    font-weight: 400;
+    line-height: 35px;
+}
+
+.bg_1_1 h3{
+    font-size: 70px;
+    color: rgba(255, 255, 255, 1);
+    font-weight: 700;
+    line-height: 72px;
+    letter-spacing: 5px;
+    margin-bottom: 20pX;
+}
+
+

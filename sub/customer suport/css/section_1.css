@@ -1,0 +1,140 @@
+.section_1{
+    /* background-color: antiquewhite; */
+    height: 552px;
+    margin-top: 150px;
+}
+
+.box_wrap{
+    width: 1342px;
+    height: 552px;
+    /* background-color: lightgray; */
+    margin: 0 auto;
+    display: flex;
+}
+
+.box_1{
+    width: 994px;
+    height: 552px;
+    background-image: url(../img/cs_bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+.box_1 p{
+    margin-left: 114px;
+}
+
+.box_1 .title{
+    font-size: 50px;
+    font-weight: 700;
+    color: #1d1d1d;
+    margin-top: 86px;        
+}
+
+.box_1 .support{
+    font-size: 24px;
+    font-weight: 700;
+    color: #1d1d1d;
+    margin-top: 10px;
+    margin-bottom: 90px;
+}
+
+.call_pic{
+    width: 300px;    
+    display: flex;
+    margin-left: 114px;
+}
+
+.fa-phone-volume{
+    font-size: 40px;
+    
+}
+
+.box_1 .callnumber{
+    margin-left: 20px;
+    font-size: 30px;
+    color: #1d1d1d;
+    font-weight: 700;
+}
+
+.small_wrap{
+    display: block;
+    margin-left: 13px;
+}
+
+.sub_title{
+    font-size: 40px;
+    font-weight: 700;        
+}
+
+.sub_title a{
+    text-decoration: none;
+    color: white;
+}
+
+.sub_con{
+    font-size: 16px;
+    font-weight: 400;    
+}
+
+.box_2{
+    width: 335px;
+    height: 270px;
+    background-color: #00AAE7;    
+    margin-bottom: 12px; 
+    display: flex;      
+    flex-wrap: wrap;
+}
+
+.box_2 .sub_title{
+    width: 300px;
+    padding-top: 28px;
+    color: white;
+}
+
+.box_2 p{        
+    margin-left: 30px;    
+    color: white;
+}
+
+.sub_con{
+    margin-top: 10px;
+}
+
+.small_wrap .fa-hand-sparkles{
+    font-size: 90px;
+    color: white;
+    opacity: 0.5;
+    margin-left: 170px;
+}
+
+.small_wrap .fa-comment-dots{
+    font-size: 90px;
+    color: #ffffff;
+    opacity: 0.5;
+    margin-left: 170px;
+}
+
+
+.box_3{
+    width: 335px;
+    height: 270px;
+    background-color: #5F6369;
+    display: flex;      
+    flex-wrap: wrap;
+}
+
+.box_3 .sub_title{
+    padding-top: 28px;
+}
+
+.box_3 p{    
+    margin-left: 30px;
+    color: #fff;    
+}
+
+
+.box_3 .sub_con{
+    line-height: 20px;
+}

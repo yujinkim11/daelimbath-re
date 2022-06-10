@@ -1,0 +1,108 @@
+.section_6{
+    height: 456px;
+}
+
+.title_5{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 200px;
+}
+
+.title_5 p{
+    font-size: 20px;
+    font-weight: 500px;
+    line-height: 29px;
+    color: rgba(51, 51, 51, 1);
+}
+
+.title_5 h3{
+    font-size: 50px;
+    font-weight: 700;
+    line-height: 72px;
+    color: rgba(51, 51, 51, 1);
+}
+
+.find_wrap{
+    width: 574px;
+    display: flex;
+    margin: 50px auto 0 auto;
+    justify-content: space-between;
+}
+
+.find_box_1{
+    width: 259px;
+    height: 305px;
+    border-radius: 15px;
+    background-color: rgba(0, 170, 231, 0.8);
+}
+
+.bath_wrap{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.bath_logo{
+    width: 86.01px;
+    height: 90.65px;
+    /* background-color: rgba(208, 236, 246, 1); */
+    margin-top: 43px;
+    background-image: url(../img/daelim_bath.png);
+    background-size: cover;
+}
+
+.find_box_1 h3{
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 40px;
+    color: rgba(255, 255, 255, 1);
+    margin-top: 40px;
+}
+
+.find_box_1 p{
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    color: rgba(255, 255, 255, 0.8);
+    margin-top: 7px;
+}
+
+.find_box_2{
+    width: 259px;
+    height: 305px;
+    border-radius: 15px;
+    background-color: rgba(73, 0, 27, 0.72);
+}
+
+.dium_wrap{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.dium_logo{
+    width: 78.52px;
+    height: 114.89px;
+    /* background-color: rgba(98, 0, 32, 1); */
+    margin-top: 43px;
+    background-image: url(../img/daelim_D.png);
+    background-size: cover;
+}
+
+.find_box_2 h3{
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 40px;
+    color: rgba(255, 255, 255, 1);
+    margin-top: 15.8px;
+}
+
+.find_box_2 p{
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    color: rgba(255, 255, 255, 0.8);
+    margin-top: 7px;
+}

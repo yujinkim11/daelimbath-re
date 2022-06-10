@@ -1,0 +1,21 @@
+.section_3{
+    /* height: 450px; */
+    box-sizing: border-box;
+    display: flex;
+    margin-top: 250px;   
+    /* justify-content: center; */
+    /* align-items: center; */
+}
+.con_wrap_2{
+    width: 800px; 
+    display: flex;
+    justify-content: center;
+    /* margin: 150px 100px 0px 100px; */
+    margin: 150px auto;
+}
+
+.con_wrap_2 .con{
+    margin: 0 30px;
+}
+
+

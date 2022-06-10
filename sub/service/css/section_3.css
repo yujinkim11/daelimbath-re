@@ -1,0 +1,139 @@
+.bidetcare_wrap{
+    width: 1342px;    
+    margin: 0 auto;    
+}
+
+.bidet_sv_title h3{
+    font-size: 40px;
+    font-weight: 700;
+    padding-top: 200px;
+    text-align: center;
+    color: #1d1d1d;
+}
+
+.bidet_sv_title p{
+    font-size: 24px;
+    font-weight: 500;
+    text-align: center;
+    color: #1d1d1d;
+    margin-bottom: 50px;
+}
+
+.bidet_img{
+    width: 300px;
+    height: 300px;
+    border-radius: 30px;
+    background-color: lightgoldenrodyellow;
+}
+
+.bidet_img1{
+    background-image: url(../img/bidet_course_1.png);
+}
+
+.bidet_img2{
+    background-image: url(../img/bidet_course_2.png);
+}
+
+.bidet_img3{
+    background-image: url(../img/bidet_course_3.png);
+}
+
+.bidet_img4{
+    background-image: url(../img/bidet_course_4.png);
+}
+
+.bidet_img5{
+    background-image: url(../img/bidet_course_5.png);
+}
+
+.bidet_img6{
+    background-image: url(../img/bidet_course_6.png);
+}
+
+.bidet_img7{
+    background-image: url(../img/bidet_course_7.png);
+}
+
+.bidet_img8{
+    background-image: url(../img/bidet_course_8.png);
+}
+
+/* bidet course end */
+
+.bidet_be_after{
+    width: 1342px;    
+}
+
+.bidet_bewrap{
+    width: 1342px;     
+}
+
+.bidet_before{
+    display: flex;
+    justify-content: space-between;
+}
+
+.bidet_after{
+    display: flex;
+    justify-content: space-between;
+}
+
+.before_icon{
+    width: 1090px;
+    margin: 30px auto;
+    font-size: 40px;
+    color: #7e7e7e;
+    display: flex;
+    justify-content: space-between;    
+}
+
+
+.bidet_be_img{
+    width: 300px;
+    height: 300px;
+    border-radius: 30px;    
+    text-align: center;    
+}
+
+.bidet_be_1{
+    background-image: url(../img/bidet_before_1.png);
+}
+
+.bidet_be_2{
+    background-image: url(../img/bidet_before_2.png);
+}
+
+
+.bidet_be_3{
+    background-image: url(../img/bidet_before_3.png);
+}
+
+
+.bidet_be_4{
+    background-image: url(../img/bidet_before_4.png);
+}
+
+
+
+.bidet_af_img{
+    width: 300px;
+    height: 300px;
+    border-radius: 30px;    
+    text-align: center;       
+}
+
+.bidet_af_1{
+    background-image: url(../img/bidet_after_1.png);
+}
+
+.bidet_af_2{
+    background-image: url(../img/bidet_after_2.png);
+}
+
+.bidet_af_3{
+    background-image: url(../img/bidet_after_3.png);
+}
+
+.bidet_af_4{
+    background-image: url(../img/bidet_after_4.png);
+}

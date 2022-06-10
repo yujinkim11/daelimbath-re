@@ -1,0 +1,61 @@
+.banner_wrap{    
+    height: 100vh;    
+    display: flex;
+    justify-content: space-between;    
+}
+
+.banner_wrap a{
+    text-decoration: none;
+}
+
+
+
+.bn_img{       
+    display: flex;
+    justify-content: center;
+    align-items: center;   
+}
+
+.bn_text{
+    width: 200px;
+    height: 60px;
+    color: white;
+    border: 1px solid white;
+    font-size: 20px;
+    font-weight: 300;
+    text-align: center;
+    line-height: 60px;
+}
+
+.bn_img1{
+    width: 640px;
+    height: 946px;
+    background-image: url(../img/main_bn_remodeling.jpg);
+}
+
+.bn_img2{
+    width: 640px;
+    height: 946px;
+    background-image: url(../img/main_bn_bathroomcare.jpg);
+}
+
+.bn_img3{
+    width: 640px;
+    height: 946px;
+    background-image: url(../img/main_bn_bidetcare.jpg);
+}
+
+.bn_img_black{
+    display: flex;
+    width: 640px;
+    height: 946px;   
+    background-color: rgba(0, 0, 0, 0.45);
+    justify-content: center;
+    align-items: center;
+    transition: 1s;
+    opacity: 0;
+}
+
+.bn_img:hover .bn_img_black{
+    opacity: 1;
+}

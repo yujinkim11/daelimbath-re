@@ -1,0 +1,151 @@
+.bathcare_wrap{
+    width: 1342px;    
+    margin: 0 auto;    
+}
+
+.bath_sv_title h3{
+    font-size: 40px;
+    font-weight: 700;
+    padding-top: 200px;
+    text-align: center;
+    color: #1d1d1d;
+}
+
+.bath_sv_title p{
+    font-size: 24px;
+    font-weight: 500;
+    text-align: center;
+    color: #1d1d1d;
+    margin-bottom: 50px;
+}
+
+.sv_course{
+    width: 1342px;    
+    display: flex;
+    justify-content: space-between;
+}
+
+.bath_img{
+    width: 300px;
+    height: 300px;
+    border-radius: 30px;
+    background-color: lightgoldenrodyellow;
+}
+
+.bath_img1{
+    background-image: url(../img/bath_course_1.png);
+}
+
+.bath_img2{
+    background-image: url(../img/bath_course_2.png);
+}
+
+.bath_img3{
+    background-image: url(../img/bath_course_3.png);
+}
+
+.bath_img4{
+    background-image: url(../img/bath_course_4.png);
+}
+
+.bath_img5{
+    background-image: url(../img/bath_course_5.png);
+}
+
+.bath_img6{
+    background-image: url(../img/bath_course_6.png);
+}
+
+.bath_img7{
+    background-image: url(../img/bath_course_7.png);
+}
+
+.bath_img8{
+    background-image: url(../img/bath_course_8.png);
+}
+
+.sv_course p{
+    font-size: 16px;
+    font-weight: 500;
+    color: #1d1d1d;
+    text-align: center;
+    margin-top: 20px;
+}
+
+/* bathroom course end */
+
+/* bathroom before&after start */
+
+.bath_be_after{
+    width: 1342px;    
+}
+
+.bath_bewrap{
+    width: 1342px;     
+}
+
+.bath_before{
+    display: flex;
+    justify-content: space-between;
+}
+
+.bath_be_img{
+    width: 300px;
+    height: 300px;
+    border-radius: 30px;    
+}
+
+.bath_be_1{
+    background-image: url(../img/bath_before_1.png);   
+}
+
+.bath_be_2{
+    background-image: url(../img/bath_before_2.png);
+}
+
+.bath_be_3{
+    background-image: url(../img/bath_before_3.png);
+}
+
+.bath_be_4{
+    background-image: url(../img/bath_before_4.png);
+}
+
+.bath_after{
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.before_icon{
+    width: 1090px;
+    margin: 30px auto;
+    font-size: 40px;
+    color: #1d1d1d;
+    display: flex;
+    justify-content: space-between;    
+}
+
+
+.bath_after_img{
+    width: 300px;
+    height: 300px;
+    border-radius: 30px;    
+    text-align: center; 
+    background-color: antiquewhite;
+}
+
+.bath_af_1{
+    background-image: url(../img/bath_after_1.png);
+}
+
+.bath_af_2{
+    background-image: url(../img/bath_after_2.png);
+}
+
+.bath_af_3{
+    background-image: url(../img/bath_after_3.png);
+}
+.bath_af_4{
+    background-image: url(../img/bath_after_4.png);
+}
