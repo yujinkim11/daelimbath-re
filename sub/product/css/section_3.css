@@ -17,4 +17,17 @@
     font-size: 60px;
     color: rgba(78, 78, 78, 1);
     margin-top: 50px;
+    animation-name: down;
+    animation-duration: 1s;
+    animation-direction: alternate;
+    animation-iteration-count: infinite;
+}
+
+@keyframes down {
+    0%{
+        transform: translateY(-25px);
+    }
+    100%{
+        transform: translateY(25px);
+    }
 }
